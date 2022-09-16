@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eren Duman</h1>
-<!-- <h3 align="center">Jr. Front End Developer</h3> -->
+<h3>Jr. Web Developer</h3>
+
+- 🌱 I’m currently learning **React, Node.js**
+- 📫 How to reach me **dumaaneren7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
