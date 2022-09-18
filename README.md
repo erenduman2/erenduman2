@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Duman</h1>
 <h3>Jr. Web Developer</h3>
 
-- 🔬 I'm a student in Computer Engineering at Bursa Uludag University.
+- 🔬 I'm a Computer Engineering student at Yildiz Technical University.
 - 🌱 I’m currently learning **React, Node.js**
 - 📫 How to reach me **dumaaneren7@gmail.com**
 
