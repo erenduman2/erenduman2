@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eren Duman</h1>
-<h3>Jr. Web Developer</h3>
 
 - 🔬 I'm a Computer Engineering student at Yildiz Technical University.
 - 🌱 I’m currently learning **React, Node.js**
