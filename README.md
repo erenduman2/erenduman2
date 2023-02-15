@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eren Duman</h1>
+<h1 align="center">Hi, I'm Eren Duman</h1>
 
 - 🔬 I'm a Computer Engineering student at Yildiz Technical University.
 - 🌱 I’m currently learning **React, Node.js**
