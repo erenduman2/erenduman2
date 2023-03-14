@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Eren Duman</h1>
 
-- 🔬 I'm a Computer Engineering student at Yildiz Technical University.
-- 🌱 I’m currently learning **React, Node.js**
-- 📫 How to reach me **dumaaneren7@gmail.com**
+- I'm a Computer Engineering student at Yildiz Technical University.
+- How to reach me **dumaaneren7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
