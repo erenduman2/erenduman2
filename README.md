@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eren Duman</h1>
 
 - I'm a Computer Engineering student at Yildiz Technical University.
-- How to reach me **dumaaneren7@gmail.com**
+- How to reach me **erenduman0@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
